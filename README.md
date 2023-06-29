@@ -5,9 +5,9 @@
 <h3 align="center">A passionate Data Scientist trying to extract insights from datasets using some  interesting programming tools</h3>
 <img align="right" alt="Coding" width="400" src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
-- 🔭 I’m currently working on [Predicting Petrobras shares using an MLP Regressor](https://github.com/up841068/petropredict)
+- 🔭 I’m currently working on [Predicting Petrobras shares using an MLP model](https://github.com/up841068/petropredict)
 
-- 🌱 I’m currently learning **MLP Regressor**
+- 🌱 I’m currently learning **MLP models**
 
 - 👯 I’m looking to collaborate on **any interesting DS projects**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python, ML, DL, SQL, or what I'm listening to lately🎵**
 
-- 📫 How to reach me **up841068@myport.ac.uk**
+- 📫 How to reach me **fernando.maron@myport.ac.uk**
 
 - ⚡ Fun fact **I say please and thanks to chatGPT**
 
