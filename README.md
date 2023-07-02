@@ -2,12 +2,14 @@
     <img src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif" alt="MasterHead" width="1000" height="400">
 </a>
 <h1 align="center">Hi 👋, I'm Fernando Maron</h1>
-<h3 align="center">A passionate Data Scientist trying to extract insights from datasets using some  interesting programming tools</h3>
+<h3 align="center">A passionate Data Scientist trying to extract insights from datasets using some interesting programming tools</h3>
 <img align="right" alt="Coding" width="400" src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
 - 🔭 I’m currently working on [Predicting Petrobras shares using an MLP model](https://github.com/up841068/petropredict)
 
 - 🌱 I’m currently learning **MLP models**
+
+- 🏁 My latest project was on [Impact of Renewable Energy Adoption on GDP](https://github.com/up841068/energy-economic-growth)
 
 - 👯 I’m looking to collaborate on **any interesting DS projects**
 
