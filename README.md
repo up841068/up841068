@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **any interesting DS projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/up841068/](https://github.com/up841068/)
+- 👨‍💻 All of my projects are available in [my repository](https://github.com/up841068/)
 
 - 💬 Ask me about **Python, ML, DL, SQL, or what I'm listening to lately🎵**
 
